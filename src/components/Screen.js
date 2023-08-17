@@ -17,7 +17,7 @@ export default function screen() {
   <div class="card-body">
    <p>Satya Nadella
     <br />
-    (CEO of MICROSOFT)
+    (CEO of Microsoft)
    </p>
   </div>
 </div>
@@ -62,7 +62,7 @@ export default function screen() {
   <div class="card-body">
    <p>Mark Zuckerberg
     <br />
-    (CEO of Meta platforms-Facebook)
+    (CEO of Meta platforms)
    </p>
   </div>
 </div>
